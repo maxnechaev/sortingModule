@@ -1,0 +1,24 @@
+{
+  "name": "sortingmodule",
+  "version": "1.0.0",
+  "description": "Building an app with a module that sorts out the input numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxnechaev/sortingModule.git"
+  },
+  "keywords": [
+    "test",
+    "sort",
+    "module"
+  ],
+  "author": "Max Nechaev",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/maxnechaev/sortingModule/issues"
+  },
+  "homepage": "https://github.com/maxnechaev/sortingModule#readme"
+}
